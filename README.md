@@ -10,7 +10,7 @@ This is the final version of the first tutorial series. The following is a brief
 * UIAlertController
 * Design ideas
 
-The next tutorial series expands greatly on Penny Pinchr. Here is the repo for Penny Pinchr Plus.
+The next tutorial series expands greatly on Penny Pinchr. [Here](https://github.com/12thtone/PennyPinchrPlusFinal) is the repo for Penny Pinchr Plus.
 
 **Tutorial videos will be available shorly.**
 
